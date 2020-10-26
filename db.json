@@ -21,187 +21,132 @@
       "2020"
     ],
     "valores": [
-      85626,
-      87806,
-      90128,
-      95003,
-      97701,
-      100378,
-      107285,
-      109705,
-      114250,
-      116418,
-      118964,
-      120948,
-      122865,
-      124940,
-      126742,
-      130439,
-      132400,
-      134293
+      5942,
+      5970,
+      6003,
+      6073,
+      6112,
+      6151,
+      5875,
+      5867,
+      6220,
+      6243,
+      6468,
+      6500,
+      6531,
+      6562,
+      6591,
+      6553,
+      6581,
+      6609
     ],
     "faixas": [
-      2.8,
-      2.8,
-      2.8,
-      3,
-      3,
-      3,
-      3.2,
-      3.2,
-      3.2,
-      3.4,
-      3.4,
-      3.4,
-      3.4,
-      3.4,
-      3.4,
-      3.6,
-      3.6,
-      3.6
+      0.6,
+      0.6,
+      0.6,
+      0.6,
+      0.6,
+      0.6,
+      0.6,
+      0.6,
+      0.6,
+      0.6,
+      0.6,
+      0.6,
+      0.6,
+      0.6,
+      0.6,
+      0.6,
+      0.6,
+      0.6
     ]
   },
   "risco": {
     "ano": 2020,
-    "valorAnterior": 129048,
-    "faixa": 3.6,
-    "valor": 134293,
-    "valorPosterior": 142633,
-    "dif": 5245,
-    "tendencia": "descer"
+    "valorAnterior": "-",
+    "faixa": 0.6,
+    "valor": 6609,
+    "valorPosterior": 10189,
+    "dif": 3580,
+    "tendencia": "subir"
   },
   "setores": {
+    "distritos": {
+      "410890805": "Guairaçá"
+    },
     "tipo": [
       {
         "distrito": "05",
-        "total": "235",
-        "cod": "0",
-        "desc": "Não especial"
+        "total": 9,
+        "cod_situacao": "1",
+        "desc_situacao": "Situação urbana - Cidade ou vila - Área urbanizada",
+        "cod_tipo": "0",
+        "desc_tipo": "Não especial"
       },
       {
         "distrito": "05",
-        "total": "54",
-        "cod": "1",
-        "desc": "Aglomerado subnormal"
-      },
-      {
-        "distrito": "05",
-        "total": "2",
-        "cod": "4",
-        "desc": "Setores com baixo patamar domiciliar"
-      },
-      {
-        "distrito": "08",
-        "total": "65",
-        "cod": "0",
-        "desc": "Não especial"
-      },
-      {
-        "distrito": "08",
-        "total": "7",
-        "cod": "1",
-        "desc": "Aglomerado subnormal"
-      },
-      {
-        "distrito": "08",
-        "total": "1",
-        "cod": "4",
-        "desc": "Setores com baixo patamar domiciliar"
-      },
-      {
-        "distrito": "10",
-        "total": "33",
-        "cod": "0",
-        "desc": "Não especial"
-      },
-      {
-        "distrito": "10",
-        "total": "8",
-        "cod": "1",
-        "desc": "Aglomerado subnormal"
-      },
-      {
-        "distrito": "10",
-        "total": "1",
-        "cod": "9",
-        "desc": "Comunidade quilombola"
-      },
-      {
-        "distrito": "12",
-        "total": "45",
-        "cod": "0",
-        "desc": "Não especial"
-      },
-      {
-        "distrito": "12",
-        "total": "1",
-        "cod": "4",
-        "desc": "Setores com baixo patamar domiciliar"
-      },
-      {
-        "distrito": "15",
-        "total": "49",
-        "cod": "0",
-        "desc": "Não especial"
-      },
-      {
-        "distrito": "15",
-        "total": "13",
-        "cod": "1",
-        "desc": "Aglomerado subnormal"
-      },
-      {
-        "distrito": "15",
-        "total": "1",
-        "cod": "9",
-        "desc": "Comunidade quilombola"
+        "total": 6,
+        "cod_situacao": "8",
+        "desc_situacao": "Situação rural - Área rural",
+        "cod_tipo": "0",
+        "desc_tipo": "Não especial"
       }
     ],
     "situacao": [
       {
         "distrito": "05",
-        "total": "270",
-        "cod": "1",
-        "desc": "Situação urbana - Cidade ou vila - Área urbanizada"
+        "total": 9,
+        "cod_situacao": "1",
+        "desc_situacao": "Situação urbana - Cidade ou vila - Área urbanizada"
       },
       {
         "distrito": "05",
-        "total": "18",
-        "cod": "2",
-        "desc": "Situação urbana - Cidade ou vila - Área não urbanizada"
-      },
-      {
-        "distrito": "05",
-        "total": "2",
-        "cod": "8",
-        "desc": "Situação rural - Área rural"
-      },
-      {
-        "distrito": "05",
-        "total": "1",
-        "cod": "9",
-        "desc": "Massa de água"
+        "total": 6,
+        "cod_situacao": "8",
+        "desc_situacao": "Situação rural - Área rural"
       }
     ]
   },
   "repac": {
     "participantes": [
       {
-        "cod_membro": "133039",
-        "nome": "ADãO VIEIRA DOS SANTOS",
-        "cargo": "Vereador",
-        "entidade": "Câmara Municipal de Vereadores",
+        "cod_membro": "142469",
+        "nome": "AFONSO AMADEU JUNIOR",
+        "cargo": "Técnico",
+        "entidade": "EMATER",
         "email": [
-          "vereadorvidrinho@cmva.sc.gov.br",
+          "guairaca@emater.pr.gov.br",
           null
         ],
         "telefone": [
           {
-            "numero": "(48)99930-6867",
+            "numero": "(44) 99131-4955",
             "ramal": null
           },
           {
-            "numero": "(48)99955-8000",
+            "numero": "(44) 3442-1015",
+            "ramal": null
+          }
+        ],
+        "observador": false,
+        "ativo": true
+      },
+      {
+        "cod_membro": "145327",
+        "nome": "ANA MARIA TAVECRIO COSTA",
+        "cargo": "SECRETÁRIA DE EDUCAÇÃO",
+        "entidade": "SECRETARIA MUNICIPAL DE EDUCAÇÃO",
+        "email": [
+          "educaguairaca@hotmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(44)3442-1288",
+            "ramal": null
+          },
+          {
+            "numero": "(44)99114-4260",
             "ramal": null
           }
         ],
@@ -209,61 +154,17 @@
         "ativo": true
       },
       {
-        "cod_membro": "134551",
-        "nome": "ADRIANA PRATI",
-        "cargo": "Coordenadora",
-        "entidade": "Colegio Ethicos",
+        "cod_membro": "145312",
+        "nome": "ANTONIO CARLOS DE OLIVEIRA",
+        "cargo": "SECRETÁRIO DE ESPORTE",
+        "entidade": "SECRETARIA MUNICIPAL DE ESPORTE",
         "email": [
-          "colegioethicos@contato.net",
+          "saad.antoniocarlos@gmail.com",
           null
         ],
         "telefone": [
           {
-            "numero": "(48)3522-3424",
-            "ramal": null
-          },
-          {
-            "numero": null,
-            "ramal": null
-          }
-        ],
-        "observador": true,
-        "ativo": true
-      },
-      {
-        "cod_membro": "193033",
-        "nome": "ADRIANO DO CANTO FERNANDES",
-        "cargo": "Síndico",
-        "entidade": "Residencial Ed. Village",
-        "email": [
-          "adrianodocantofernandes@gmail.com",
-          null
-        ],
-        "telefone": [
-          {
-            "numero": "(48)98844-8313",
-            "ramal": null
-          },
-          {
-            "numero": null,
-            "ramal": null
-          }
-        ],
-        "observador": true,
-        "ativo": true
-      },
-      {
-        "cod_membro": "193099",
-        "nome": "ALDO ANGELONI",
-        "cargo": "Síndico",
-        "entidade": "Ed. Monte Carlo",
-        "email": [
-          "Só WhatsApp/celular",
-          null
-        ],
-        "telefone": [
-          {
-            "numero": "(48)99628-1919",
+            "numero": "(44)99159-9638",
             "ramal": null
           },
           {
@@ -275,17 +176,193 @@
         "ativo": true
       },
       {
-        "cod_membro": "191962",
-        "nome": "ALEXANDRA PEREIRA",
-        "cargo": "Síndica",
-        "entidade": "Ed. Darolt",
+        "cod_membro": "142556",
+        "nome": "Cathia Costa",
+        "cargo": "Chefe Setor Rural",
+        "entidade": "Prefeitura Municipal de Guairaçá",
         "email": [
-          "alexandrapereirasc@gmail.com",
+          "",
+          ""
+        ],
+        "telefone": [
+          {
+            "numero": "(44) 3442-1413",
+            "ramal": ""
+          },
+          {
+            "numero": "",
+            "ramal": ""
+          }
+        ],
+        "observador": false,
+        "ativo": true
+      },
+      {
+        "cod_membro": "142555",
+        "nome": "CLEUZILENE DA SILVA",
+        "cargo": "Vereadora",
+        "entidade": "Câmara Municipal de Guairaçá",
+        "email": [
+          "atendimento@cmguairaca.pr.gov.br",
           null
         ],
         "telefone": [
           {
-            "numero": "(48)99949-1866",
+            "numero": "(44) 3442-1014",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": false,
+        "ativo": true
+      },
+      {
+        "cod_membro": "142528",
+        "nome": "ELSON GREB",
+        "cargo": "Prefeito",
+        "entidade": "Prefeitura Municipal de Guairaçá",
+        "email": [
+          "elsongreb23@gmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(44) 99702-0897",
+            "ramal": null
+          },
+          {
+            "numero": "(44) 99116-7257",
+            "ramal": null
+          }
+        ],
+        "observador": false,
+        "ativo": true
+      },
+      {
+        "cod_membro": "142501",
+        "nome": "JOSé CLIMACO PEREIRA",
+        "cargo": "Secretário de Agricultura",
+        "entidade": "Prefeitura Municipal de Guairaçá",
+        "email": [
+          "rhprefeituraguairaca@hotmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(44) 99135-8735",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": false,
+        "ativo": true
+      },
+      {
+        "cod_membro": "142529",
+        "nome": "JOSé SEVERINO JUNIOR",
+        "cargo": "Vice-Presidente da Câmara",
+        "entidade": "Câmara Municipal de Guairaçá",
+        "email": [
+          "atendimento@cmguairaca.pr.gov.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(44) 99103-0865",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": false,
+        "ativo": true
+      },
+      {
+        "cod_membro": "145307",
+        "nome": "JULIO CESAR RICARDO",
+        "cargo": "CHEFE DE GABINETE",
+        "entidade": "PREFEITURA MUNICIPAL",
+        "email": [
+          "jcricardo.1978@yahoo.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(44)99856-9242",
+            "ramal": null
+          },
+          {
+            "numero": "(44)99127-4027",
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "142609",
+        "nome": "LUIZ CARLOS FéLIX",
+        "cargo": "Secretário da Fazenda",
+        "entidade": "Prefeitura Municipal de Guairaçá",
+        "email": [
+          "rhprefeituraguairaca@hotmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(44) 3442-1413",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": false,
+        "ativo": true
+      },
+      {
+        "cod_membro": "142554",
+        "nome": "NILZA LEANDRO COSTA MINELLI",
+        "cargo": "Funcionária",
+        "entidade": "Sindicato dos Trabalhadores Rurais de Guairaçá",
+        "email": [
+          "strguairaca@fetaep.org.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(44) 3442-1152",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": false,
+        "ativo": true
+      },
+      {
+        "cod_membro": "145316",
+        "nome": "RAFAEL DA SILVA LIMA",
+        "cargo": "SECRETÁRIO DE AGRICULTURA",
+        "entidade": "SECRETARIA MUNICIPAL DE AGRICULTURA",
+        "email": [
+          "NAOTEM@NAOTEM.COM",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(44)99116-9558",
             "ramal": null
           },
           {
@@ -297,17 +374,17 @@
         "ativo": true
       },
       {
-        "cod_membro": "191913",
-        "nome": "ALIDEN WILLAN",
-        "cargo": "Síndico",
-        "entidade": "Ed. Oasis",
+        "cod_membro": "145301",
+        "nome": "ROSA BEATRIZ LIMA CASTILHO",
+        "cargo": "SECRETÁRIA DE SAÚDE",
+        "entidade": "SECRETARIA MUNICIPAL DE SAÚDE",
         "email": [
-          "alidenwr@hotmail.com",
+          "castilhobeatriz2@gmail.com",
           null
         ],
         "telefone": [
           {
-            "numero": "(48)99616-0254",
+            "numero": "(44)99129-1875",
             "ramal": null
           },
           {
@@ -319,17 +396,17 @@
         "ativo": true
       },
       {
-        "cod_membro": "133967",
-        "nome": "ALIRIA COSTA",
-        "cargo": "Coordenadora",
-        "entidade": "CEI Cidade Encantada",
+        "cod_membro": "145319",
+        "nome": "VALOUIRIA ARAUJO VIEIRA PULCENA",
+        "cargo": "RECEPCIONISTA",
+        "entidade": "SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL",
         "email": [
-          "prof.aliriac@gmail.com",
+          "NAOTEM@NAOTEM.COM",
           null
         ],
         "telefone": [
           {
-            "numero": "(48)99632-5712",
+            "numero": "(44)99109-2581",
             "ramal": null
           },
           {
@@ -340,94 +417,37 @@
         "observador": true,
         "ativo": true
       }
-    ],    
-    
+    ],
     "reunioes": [
       {
-        "data": "2020-02-12 14:00:00",
-        "cod_subarea": "2927408201",
-        "siape_presidente": "768261",
-        "local": "Centro de Cultura da Câmara Municipal de Salvador",
+        "data": "2019-08-27 14:00:00",
+        "cod_subarea": "4127304200",
+        "siape_presidente": "1548479",
+        "local": "PREFEITURA MUNICIPAL",
         "tipo": "primeira",
-        "complemento": "O encontro terá como objetivo dar maior transparência ao processo e buscar, junto a autoridades e sociedade, apoios e parcerias para viabilizar as atividades censitárias. Para mais informações, favor entrar em contato através dos seguintes números: (71) 2105-8631 / 2105-8668 / 2105-8696.",
-        "status": "realizada",
-        "participantes": [
-          "133967",
-          "191913",
-          "191962",
-          "193099",
-          "193033",
-          "134551",
-	        "133039"
-        ]
-      },
-      {
-        "data": "2020-02-04 11:00:00",
-        "cod_subarea": "2927408201",
-        "siape_presidente": "2103806",
-        "local": "Teste",
-        "tipo": "estadual",
-        "complemento": "Teste",
-        "status": "realizada",
-        "participantes": [
-          "133967"
-        ]
-      },
-      {
-        "data": "2020-02-12 14:00:00",
-        "cod_subarea": "2927408201",
-        "siape_presidente": "768261",
-        "local": "Centro de Cultura da Câmara Municipal de Salvador",
-        "tipo": "segunda",
-        "complemento": "O encontro terá como objetivo dar maior transparência ao processo e buscar, junto a autoridades e sociedade, apoios e parcerias para viabilizar as atividades censitárias. Para mais informações, favor entrar em contato através dos seguintes números: (71) 2105-8631 / 2105-8668 / 2105-8696.",
-        "status": "realizada",
-        "participantes": [
-          "133967",
-          "191913",
-          "191962",
-          "193099",
-          "193033",
-          "134551",
-	  "133039"
-        ]
-      },
-      {
-        "data": "2020-03-02 15:00:00",
-        "cod_subarea": "2927408201",
-        "siape_presidente": "1356526",
-        "local": "Secretaria de Educação do Estado da Bahia",
-        "tipo": "extraordinaria",
         "complemento": "",
         "status": "realizada",
         "participantes": [
-          "133967",
-          "134551"
-        ]
-      },
-      {
-        "data": "2020-03-11 15:00:00",
-        "cod_subarea": "2927408213",
-        "siape_presidente": "2103806",
-        "local": "Pref. Bairro Liberdade \\ São Caetano",
-        "tipo": "local",
-        "complemento": "",
-        "status": "realizada",
-        "participantes": [
-          "191913",
-          "193099"
+          "145301",
+          "145307",
+          "145312",
+          "145316",
+          "145319",
+          "145327"
         ]
       }
     ]
   },
   "info": {
-    "cod_mun": "3300209",
-    "nome_mun": "ARARUAMA",
-    "cod_agencia": "330070400",
-    "nome_agencia": "CABO FRIO",
-    "data": "2020-10-06 10:22:28",
+    "cod_mun": "4108908",
+    "nome_mun": "GUAIRAÇÁ",
+    "cod_agencia": "411840200",
+    "nome_agencia": "PARANAVAÍ",
+    "data": "2020-10-26 09:25:09",
     "fonte": [
       "SIDRA/IBGE",
-      "BDO/COC/IBGE"
+      "BDO/IBGE",
+      "SERVIÇO DADOS/IBGE"
     ]
   }
 }
